@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		818AEC0C1E44B38C00095FB1 /* SunnyDay */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SunnyDay; sourceTree = BUILT_PRODUCTS_DIR; };
+		818AEC0C1E44B38C00095FB1 /* SunnyDay */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = SunnyDay; path = /Users/russellgordon/Documents/Repositories/ICS2O/SunnyDay/build/Debug/SunnyDay; sourceTree = "<absolute>"; };
 		818AEC161E44B3B000095FB1 /* SunnyDay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SunnyDay.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -38,16 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				818AEC0E1E44B38C00095FB1 /* SunnyDay */,
-				818AEC0D1E44B38C00095FB1 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		818AEC0D1E44B38C00095FB1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				818AEC0C1E44B38C00095FB1 /* SunnyDay */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		818AEC0E1E44B38C00095FB1 /* SunnyDay */ = {
@@ -103,7 +94,7 @@
 				en,
 			);
 			mainGroup = 818AEC031E44B38C00095FB1;
-			productRefGroup = 818AEC0D1E44B38C00095FB1 /* Products */;
+			productRefGroup = 818AEC031E44B38C00095FB1;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -248,6 +239,7 @@
 				818AEC151E44B38C00095FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
